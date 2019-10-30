@@ -1,4 +1,4 @@
-1.1    居住证积分
+# 1.1    居住证积分
 
 积分模拟：[http://jzzjf.12333sh.gov.cn/jzzjf/pingfen/index.jsp](http://jzzjf.12333sh.gov.cn/jzzjf/pingfen/index.jsp)
 
@@ -8,15 +8,7 @@
 
 [https://jzzjf.12333sh.gov.cn/jzzjf/loginAfter](https://jzzjf.12333sh.gov.cn/jzzjf/loginAfter)
 
-
-
-
-
 1.2 图片
 
 ![](/assets/import.png)
-
-
-
-
 
